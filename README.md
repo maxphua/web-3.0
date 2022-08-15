@@ -48,4 +48,4 @@ Tutorial from JavaScript Mastery from youtube
 
 https://www.youtube.com/watch?v=Wn_Kb3MR_cU&t=1869s
 
-Setup: run npm i && npm start for both client and server side to start the app
+Setup: npm run dev command for client to start the app
